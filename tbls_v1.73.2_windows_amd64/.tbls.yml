@@ -1,0 +1,10 @@
+# .tbls.yml
+
+# DSN (Database Source Name) to connect database
+# dsn: postgres://dbuser:dbpass@localhost:5432/dbname
+# .tbls.yml
+dsn: mysql://vapor:miWYX4wOHclb977kw0JbH38DjELp4Bm1SrPwBHmb@javris-enrollment-database.c2tvot7rhp0k.ca-central-1.rds.amazonaws.com:3306/sakila_db
+  
+# Path to generate document
+# Default is `dbdoc`
+docPath: doc/schema
